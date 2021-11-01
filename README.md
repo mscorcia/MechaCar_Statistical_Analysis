@@ -67,9 +67,11 @@ Lot 3 has a sample mean of 1496.14 and a p-Value of 0.04, this is lower than the
 This study would involve collecting data on MechaCar and its similar models across several different manufacturers for 5 years.
 
 ### Metrics
+
 Safety Feature Rating, Current Price, Engine (Electric, Hybrid, Gasoline), and MPG
 
 ### Hypothesis: Null and Alternative
+
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance with respect to the metrics. Alternative Hypothesis (Ha): MechaCar is not priced correctly based on its performance with respect to the metrics.
 
 ### Statistical Tests
