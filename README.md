@@ -73,4 +73,5 @@ Safety Feature Rating, Current Price, Engine (Electric, Hybrid, Gasoline), and M
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance with respect to the metrics. Alternative Hypothesis (Ha): MechaCar is not priced correctly based on its performance with respect to the metrics.
 
 ### Statistical Tests
+
 A multiple linear regression will be used in this study.
